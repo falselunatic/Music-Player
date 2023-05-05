@@ -13,7 +13,7 @@ const durTime = document.querySelector('#durTime');
 
 
 // Song titles
-const songs = ['women', 'streets', 'telepatia','hips dont lie', 'jalebi baby', 'dinero', 'bom diggy diggy','khulke jeene ka','montero','waka waka','ride it','swalla'];
+const songs = ['women', 'streets', 'telepatia','hips dont lie', 'jalebi baby', 'dinero', 'BlueBird','khulke jeene ka','montero','yehishqhai','ride it','swalla'];
 
 // Keep track of song
 let songIndex = 2;
